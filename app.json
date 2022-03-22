@@ -1,5 +1,5 @@
 {
-  "name": "AnonyLove Music",
+  "name": "TEAM ANONYMOUS",
   "description": "A SuperFast VC Player bot to play songs in Telegram Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/CrackingxKuro/FallenMusic",
@@ -16,12 +16,12 @@
     "BOT_NAME": {
       "description": "A name for your MusicPlayer Bot",
       "required": true,
-      "value": ""
+      "value": "TEAM ANONYMOUS"
     },
     "BOT_USERNAME": {
       "description": "Username of your bot without @",
       "required": false,
-      "value": "fallen_music_bot"
+      "value": "@Music_Lover07_Bot"
     },
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps",
