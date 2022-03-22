@@ -1,5 +1,5 @@
 {
-  "name": "TEAM ANONYMOUS",
+  "name": "━━╬٨ـﮩﮩ❤٨ـﮩﮩـ╬━❤️❥❥═══ANONY ══",
   "description": "A SuperFast VC Player bot to play songs in Telegram Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/CrackingxKuro/FallenMusic",
@@ -16,12 +16,12 @@
     "BOT_NAME": {
       "description": "A name for your MusicPlayer Bot",
       "required": true,
-      "value": "TEAM ANONYMOUS"
+      "value": "━━╬٨ـﮩﮩ❤٨ـﮩﮩـ╬━❤️❥❥═══ANONY ══"
     },
     "BOT_USERNAME": {
       "description": "Username of your bot without @",
       "required": false,
-      "value": "@Music_Lover07_Bot"
+      "value": "Anony_Music_Bot"
     },
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps",
@@ -44,7 +44,7 @@
     "SUDO_USERS": {
       "description": "User IDs of the users who will counted as admin everywhere (if more than one separate them by space).",
       "required": true,
-      "value": "1356469075"
+      "value": "1697845783"
     },
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
