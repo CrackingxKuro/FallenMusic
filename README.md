@@ -1,5 +1,5 @@
 <p align="center">
-    <br><b> TEAM ANONYMOUS </b><br>
+    <br><b>━━╬٨ـﮩﮩ❤٨ـﮩﮩـ╬━❤️❥❥═══ANONY ══</b><br>
 </p>
 <p align="center"><a href="https://t.me/Crackingkingdomes"><img src="https://te.legra.ph/file/23907a54780f779c42eb9.jpg"></a></p>
 
@@ -78,7 +78,7 @@ python3 main.py # Run the bot
 ```
 
 ### Special Credits 💖
-- [TEAM ANONYMOUS](https://github.com/CrackingxKuro): Developer
+- [━━╬٨ـﮩﮩ❤٨ـﮩﮩـ╬━❤️❥❥═══ANONY ══](https://github.com/CrackingxKuro): Developer
 - [Fallen Music Bot](https://telegram.me/fallen_music_bot): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
