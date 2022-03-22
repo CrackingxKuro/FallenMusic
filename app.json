@@ -1,8 +1,8 @@
 {
-  "name": "Fallen Music",
+  "name": "AnonyLove Music",
   "description": "A SuperFast VC Player bot to play songs in Telegram Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/AnonymousBoy1025/FallenMusic",
+  "repository": "https://github.com/CrackingxKuro/FallenMusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -34,12 +34,12 @@
     "OWNER_USERNAME": {
       "description": "Username of the person who will known as owner of the bot, without @",
       "required": false,
-      "value": "anonymous_was_bot"
+      "value": "Rohit_x_Op"
     },
     "SUPPORT_GROUP": {
       "description": "Username of the group where users will go and disturb you, without @",
       "required": false,
-      "value": "DevilsHeavenMF"
+      "value": "Crackingkingdome"
     },
     "SUDO_USERS": {
       "description": "User IDs of the users who will counted as admin everywhere (if more than one separate them by space).",
