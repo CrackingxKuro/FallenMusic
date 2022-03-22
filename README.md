@@ -1,7 +1,7 @@
 <p align="center">
-    <br><b>😫 𝗙𝗮𝗹𝗹𝗲𝗻 𝗠𝘂𝘀𝗶𝗰 😫</b><br>
+    <br><b> TEAM ANONYMOUS </b><br>
 </p>
-<p align="center"><a href="https://t.me/DevilsHeavenMF"><img src="https://telegra.ph/file/89cbc8b8760b6abff430f.jpg"></a></p>
+<p align="center"><a href="https://t.me/Crackingkingdome"><img src="https://te.legra.ph/file/23907a54780f779c42eb9.jpg"></a></p>
 
 Fallen Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
@@ -57,7 +57,7 @@ Fallen Music is a Telegram Bot project that allows you to play music on Telegram
 
 ## Heroku Deployment 🚀
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AnonymousBoy1025/FallenMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/CrackingxKuro/FallenMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot more stable).
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
@@ -78,13 +78,13 @@ python3 main.py # Run the bot
 ```
 
 ### Special Credits 💖
-- [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousBoy1025): Developer
+- [TEAM ANONYMOUS](https://github.com/CrackingxKuro): Developer
 - [Fallen Music Bot](https://telegram.me/fallen_music_bot): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ### Support & Developer 🎑
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://telegram.me/anonymous_was_bot"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Crackingkingdome"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://telegram.me/Rohit_x_Op"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
 -------------------------------------------------
